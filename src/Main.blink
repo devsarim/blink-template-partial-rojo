@@ -1,0 +1,9 @@
+option ClientOutput = "../out/Client.luau"
+option ServerOutput = "../out/Server.luau"
+
+event Example {
+    From: Server,
+    Type: Reliable,
+    Call: SingleAsync,
+    Data: string
+}

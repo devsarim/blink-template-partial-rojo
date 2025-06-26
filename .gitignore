@@ -1,0 +1,13 @@
+# Project place file
+/blink-template-partial-rojo.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Node
+node_modules
+package-lock.json
+
+# Blink
+out

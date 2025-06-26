@@ -1,0 +1,12 @@
+{
+  "name": "blink-template-partial-rojo",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Remotes": {
+        "$path": "out"
+      }
+    }
+  }
+}
